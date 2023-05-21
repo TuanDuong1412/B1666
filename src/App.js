@@ -6,9 +6,7 @@ import B16BT2 from './Bai16/BT/BT2/App';
 function App() {
   return (
     <div className="App" style={{}}>
-      {/* <B16BT1></B16BT1>
-       */}
-       <B16BT2></B16BT2>
+    <B16BT1></B16BT1>
     </div>
   );
 }

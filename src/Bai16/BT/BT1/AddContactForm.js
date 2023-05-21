@@ -30,6 +30,7 @@ function AddContactForm() {
                 value={name}
                 onChange={event => setName(event.target.value)}
             />
+            <br></br>
             <input
                 type="text"
                 placeholder="Số điện thoại"
